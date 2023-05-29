@@ -18,6 +18,8 @@
     <!-- <img src='' alt='HTML5' /> -->
 </div><br/>
 
+[![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBS&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Estou sempre em busca de novos aprendizados nessa área maravilhosa, e busco sempre aprender novas tecnologias!
 
 ### Des de 5/03/2023
